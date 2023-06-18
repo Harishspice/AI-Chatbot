@@ -1,4 +1,4 @@
-# LANGCHAIN Chatbot
+# AI Powered LANGCHAIN Chatbot
 
 This project is designed only using langchain framework proposed by open-ai which has been very rarely used since it's release. The code is made open source so anyone can use it just by changing names of the file name you are going to use
 
