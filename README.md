@@ -31,9 +31,9 @@ The AI Chatbot is a language-based chatbot that provides exact answers based on 
 ![image](https://github.com/Harishspice/AI-Chatbot-/assets/117935868/ca2e4d26-bb69-43a5-ba24-58eb4be83dc9)
 
 ### To Have In Mind
-- The dataset provided is very small so the model is at it's very basic stage
-- If large datatsets are added, the model would perform at it's best
-- 
+- The dataset provided is very small so the model is at it's very basic stage.
+- If large datatsets are added, the model would perform at it's best.
+  
 ## Installation
 
 To set up the AI Chatbot locally, follow these steps:
